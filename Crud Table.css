@@ -1,0 +1,36 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 60px
+  }
+  
+  td,
+  th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    border: 30px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  input{
+    height: 40px;
+    text-indent :4px;
+  }
+  button{
+    height : 40px;
+    float:right;
+    margin-top:-60px;
+    margin-right:570px
+  }
+  #btn2{
+    height : 30px;
+    float:none;
+    margin-top:10px;
+    margin-right:-40px;
+    border-radius:20px;
+    text-indent: 0px
+  }
